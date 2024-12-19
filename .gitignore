@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/tech-learning-tracker/v17
+/.vs
+/TechLearningTracker.API/bin/Debug/net8.0
+/TechLearningTracker.API/obj
+/TechLearningTracker.API/TechLearningTracker.API.csproj.user
+/TechLearningTracker.Core/bin/Debug/net8.0
+/TechLearningTracker.Core/obj
+/TechLearningTracker.Infrastructure/bin/Debug/net8.0
+/TechLearningTracker.Infrastructure/obj
+/TechLearningTracker.Tests/bin/Debug/net8.0
+/TechLearningTracker.Tests/obj

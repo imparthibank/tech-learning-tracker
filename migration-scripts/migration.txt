@@ -1,0 +1,3 @@
+E:\tech-learning-tracker\TechLearningTracker.API> dotnet ef migrations add InitialCreate -s ../TechLearningTracker.API -p ../TechLearningTracker.Infrastructure
+
+E:\tech-learning-tracker\TechLearningTracker.API> dotnet ef database update -s ../TechLearningTracker.API
